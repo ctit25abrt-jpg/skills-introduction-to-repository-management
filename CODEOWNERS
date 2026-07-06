@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ctit25abrt-jpg
+/src/backend/database.py      @ctit25abrt-jpg
+/src/backend/routers/auth.py  @ctit25abrt-jpg
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ctit25abrt-jpg
